@@ -14,6 +14,7 @@ iOS：
 请下载TestFlight版本使用。
 
 第一步——下载TestFlight：https://apps.apple.com/cn/app/id899247664 
+
 第二步——下载洋葱VPN：https://testflight.apple.com/join/T5rHnhOd 打开后点击「开始测试」按钮，即可安装，提示XX天过期不影响使用，到期前重新安装即可。
 
 Windows：
